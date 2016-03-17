@@ -1,0 +1,7 @@
+type: module
+name: Doctrine
+description: 'Testing Development with Doctrine under drupal.'
+package: Sandbox
+core: 8.x
+tags:
+ - developer
