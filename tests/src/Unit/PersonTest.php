@@ -13,7 +13,7 @@ use Drupal\doctrine\Model\Person;
 use Drupal\Tests\UnitTestCase;
 
 /**
- * @group Sandbox
+ * @group Doctrine
  * @require module doctrine
  * @coversDefaultClass \Drupal\doctrine\App
  */
